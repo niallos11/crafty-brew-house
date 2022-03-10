@@ -6,6 +6,16 @@
 }
 body {
     font-family: Jost,sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     color: #3a3a3a;
+}
+/* headings & logo */
+h1,h2 {
+    font-family: Oswald,sans-serif;
+    text-transform: none;
+    letter-spacing: 4px;
+    color:rgb(128, 77, 0);
+.logo {
+    float: left;
+    font-size: 280%; 
 }
