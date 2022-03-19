@@ -51,10 +51,15 @@ h1,h2 {
     font-weight:bold;
     font-size: larger;
 }
-.contact {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight:bolder;
-    font-size: large;
+/* map */
+#map-wrapper {
+
+    height: 300px;
+    margin-bottom: 107px;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
 }
