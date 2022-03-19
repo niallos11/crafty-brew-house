@@ -21,8 +21,6 @@ h1,h2 {
     font-size: 110%;
     letter-spacing: 4px;
 }
-#logo, #menu{
-}
 
 #menu li {
     float: right;
@@ -32,4 +30,9 @@ h1,h2 {
 #menu a {
     text-decoration: none;
     color: inherit;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
