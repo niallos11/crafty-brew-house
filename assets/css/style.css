@@ -90,3 +90,8 @@ footer > a {
 footer > p {
 	color: silver;
 }
+@media screen and (max-width: 575px) {
+    #main {
+      display: block;
+    }
+  }
