@@ -20,10 +20,13 @@ h1,h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #menu li {
-    float: right;
     list-style-type: none;
     margin-right: 30px;
 }
