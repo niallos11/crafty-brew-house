@@ -12,10 +12,11 @@ body {
 /* headings & logo */
 h1,h2 {
     font-family: Oswald,sans-serif;
+    
     text-transform: none;
     letter-spacing: 4px;
     color:rgb(128, 77, 0);
-    text-align: center;
+    text-align: center;  
 }
 #menu {
     font-size: 110%;
@@ -34,8 +35,13 @@ h1,h2 {
     text-decoration: none;
     color: inherit;
 }
-.logo {
+.logo {  
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.hero-image {
+    background: url('/assets/images/jon-parry-C8eSYwQkwHw-unsplash.jpg') no-repeat center center;
+    background-size: cover;
+    height: 100%;
 }
