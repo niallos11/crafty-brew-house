@@ -22,11 +22,14 @@ h1,h2 {
     letter-spacing: 4px;
 }
 #logo, #menu{
-    line-height: 75px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+}
+#menu a {
+    text-decoration: none;
+    color: inherit;
 }
