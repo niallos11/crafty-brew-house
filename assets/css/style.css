@@ -15,7 +15,18 @@ h1,h2 {
     text-transform: none;
     letter-spacing: 4px;
     color:rgb(128, 77, 0);
-.logo {
-    float: left;
-    font-size: 280%; 
+    text-align: center;
+}
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+#logo, #menu{
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
 }
