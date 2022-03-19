@@ -39,7 +39,7 @@ h1,h2 {
     margin-right: auto;
 }
 .hero-image {
-    background: url('/assets/images/jon-parry-C8eSYwQkwHw-unsplash.jpg') no-repeat center center;
+    background: url('../images/jon-parry-C8eSYwQkwHw-unsplash.jpg') no-repeat center center;
     background-size: cover;
     height: 100%;
 }
