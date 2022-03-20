@@ -10,3 +10,4 @@ add html pages with boilerplate tempate add css folder with style css and images
 - font Awsome beer mug not working.
 - Add href Contact Us -> Jump to section on Main page.
 - Fix form on Mobile, need to allign more to left.
+- Fix Paragraph text on Mobile is too much to left.
