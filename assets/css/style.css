@@ -53,6 +53,13 @@ h1,h2 {
     font-weight:bold;
     font-size: larger;
 }
+.main ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align:center;
+    font-weight:bold;
+    font-size: larger;
 /* map */
 #map-wrapper {
 
