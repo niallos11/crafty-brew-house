@@ -75,10 +75,6 @@ footer {
 	z-index: 3;
 }
 
-footer > span {
-	color: #fce38a;
-}
-
 footer > a {
 	color: #fce38a;
 	text-decoration: none;
