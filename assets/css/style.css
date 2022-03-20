@@ -57,7 +57,6 @@ h1,h2 {
 #map-wrapper {
 
     height: 300px;
-    margin-bottom: 107px;
 }
 
 #map {
@@ -66,7 +65,7 @@ h1,h2 {
     border: none;
 }
 footer {
-	background-color: #6f4e37;
+	background-color: #364f6b;
 	padding: 1em;
 	text-align: center;
     width: 100%;
@@ -77,14 +76,62 @@ footer {
 }
 
 footer > span {
-	color: silver;
+	color: #fce38a;
 }
 
 footer > a {
-	color: beige;
+	color: #fce38a;
 	text-decoration: none;
 	padding: 0 15px;
 	font-size: 0.8rem;
+}
+/* Form */
+
+.form-section {
+    clear: left;
+    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+.join-us-form {
+    color:#fff;
+    background-color: #364f6b;
+    max-width: 400px;
+    position:absolute;
+    left:38%;
+    padding:30px;
+    
+}
+.join-us-form h2 {
+    color:#fafafa;
+    margin-bottom:20px;
+}
+.text-input {
+    background: transparent;
+    color:#fafafa;
+    width:100%;
+    height:25px;
+    margin:5px 0 20px;
+    border:1px solid #fafafa;
+    border-radius: 2px;
+}
+.text-input:hover{
+    border-color:#f16c6b;
+}
+.join-button{
+    margin-top:20px;
+    border-radius:2px;
+    padding:15px 32px 15px 32px;
+    text-align:center;
+    font-size:100%;
+    background-color:#f16c6b;
+    color:#fafafa;
+    
+}
+.join-button:hover{
+    background-color:#fafafa;
+    color:#f16c6b;
 }
 
 footer > p {
