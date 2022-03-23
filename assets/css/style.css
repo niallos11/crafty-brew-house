@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&family=Lato:wght@300&family=Open+Sans:wght@300&display=swap');
 *{
-    margin: 0;
+    margin: 2;
     padding: 0;
     border: none;
 }
@@ -10,7 +10,7 @@ body {
     color: #3a3a3a;
 }
 /* headings & logo */
-h1,h2 {
+h1,h2,h3 {
     font-family: Oswald,sans-serif;
     text-transform: none;
     letter-spacing: 4px;
@@ -42,8 +42,8 @@ h1,h2 {
     background-size: cover;
     height: 60%;
     width: 100%;
-
 }
+
 /* main page section with some info about the club */
 .main p {
     display: flex;
@@ -134,12 +134,23 @@ footer > a {
     background-color:#fafafa;
     color:#f16c6b;
 }
-
-footer > p {
+footer > h2 {
 	color: silver;
 }
-@media screen and (max-width: 575px) {
-    #main {
-      display: block;
+footer > a {
+	color: silver;
+}
+footer > p {
+	color: #fce38a;
+}
+/* For small screen sizes 800px and down */
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 3;
     }
-  }
+}
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+        }
+}
