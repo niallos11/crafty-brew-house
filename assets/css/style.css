@@ -97,10 +97,11 @@ footer > a {
 .join-us-form {
     color:#fff;
     background-color: #364f6b;
-    max-width: 400px;
-    position:absolute;
+    max-width: 500px;
+    display:block;
+    margin:0 auto;
     left:38%;
-    padding:30px;
+    padding:40px;
     
 }
 .join-us-form h2 {
