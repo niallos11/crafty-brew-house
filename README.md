@@ -61,6 +61,14 @@ Testing
 
 ![image](https://user-images.githubusercontent.com/5288061/160015788-510510fe-c082-456b-88c5-b3903e8fd0a8.png)
 
+Fixed errors
+1. Removed uneeded section on line 54.
+2. Section lacks heading, changed section to div.
+3. tag is closed
+4. Added div close tag for line 28.
+![image](https://user-images.githubusercontent.com/5288061/160016414-5fa68a88-2be2-4743-881e-c1dcbfa9afcd.png)
+
+
 
 Lighthouse 
 - <frame> or <iframe> elements do not have a title
