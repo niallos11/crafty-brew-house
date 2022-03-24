@@ -66,8 +66,9 @@ Fixed errors
 2. Section lacks heading, changed section to div.
 3. tag is closed
 4. Added div close tag for line 28.
-5. 
+
 W3C HTML Validator
+
 ![image](https://user-images.githubusercontent.com/5288061/160016414-5fa68a88-2be2-4743-881e-c1dcbfa9afcd.png)
 
 W3C CSS Validator (Jigsaw)
