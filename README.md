@@ -42,6 +42,9 @@ The links will open to a new tab to allow easy navigation for the user.
 Beer
 This sections show some more detailed infomation for the types of beers that CraftyBrewHouse brew.
 
+![image](https://user-images.githubusercontent.com/5288061/160013377-c0b9add6-20ad-4105-aa7c-151938b64920.png)
+
+
 BEER TYPE:
 NAME:
 Style:
