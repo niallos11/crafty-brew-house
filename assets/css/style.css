@@ -53,14 +53,6 @@ h1,h2,h3 {
     height: 60%;
     width: 100%;
 }
-/*.hero-image {
-    background: url('../images/jon-parry-C8eSYwQkwHw-unsplash.jpg') no-repeat center center;
-    background-size: cover;
-    height: 30%;
-    width: 100%;
-}
-
-/* main page section with some info about the club */
 .main p {
     display: flex;
     align-items: center;
@@ -112,14 +104,6 @@ footer > a {
     color:#fce38a; 
 }
 /* Form */
-
-.form-section {
-    clear: left;
-    background-size: cover;
-    background-position: center;
-    height: 900px;
-
-}
 .join-us-form {
     color:rgb(216, 49, 49);
     background-color: #364f6b;
