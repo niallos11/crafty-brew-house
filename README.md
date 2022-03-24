@@ -76,6 +76,12 @@ Lighthouse
 - Serves images with low resolution
 - Web app manifest or service worker do not meet the installability requirements 1 reason
 - Resized Image
+
+Mobile
+![image](https://user-images.githubusercontent.com/5288061/160017165-9c15c431-c73f-423d-9b53-7128506b97ee.png)
+Desktop
+![image](https://user-images.githubusercontent.com/5288061/160017472-cbb84cee-aa47-42ff-a16d-6b48cf7f623f.png)
+
   
 Validator 
 - You should add a type attribute with a value of text/css to the link element
