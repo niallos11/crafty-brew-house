@@ -1,4 +1,4 @@
-#CraftyBrewHouse 
+#CraftyBrewHouse#
 Code Institute - Project1
 
 The CraftyBrewHouse is a meetup group from Homebrew enthusiasts throughout all of Ireland.
