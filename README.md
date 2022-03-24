@@ -71,9 +71,9 @@ Fixed errors
 
 
 Lighthouse 
-- <frame> or <iframe> elements do not have a title
-- Page lacks the HTML doctype, thus triggering quirks-modeDocument must contain a doctype
-- Serves images with low resolution
+- <frame> or <iframe> elements do not have a title - added title.
+- Page lacks the HTML doctype, thus triggering quirks-modeDocument must contain a doctype - docutype was added.
+- Serves images with low resolution - resized the images & set image & width height.
 - Web app manifest or service worker do not meet the installability requirements 1 reason
 - Resized Image
 
@@ -89,6 +89,19 @@ Mobile
 
 
 Deployment
+   
+The site was designed first on wireframes.
+This providede the basic structure of the site. Some changes were made off original design eg changing about section to beers
+and Contacts moved to footer.
+
+Home
+![image](https://user-images.githubusercontent.com/5288061/160018496-c83972f5-cbac-49c9-89a4-84eec01280ba.png)
+Beer
+![image](https://user-images.githubusercontent.com/5288061/160018864-77b94e59-a856-4721-8378-eca183212475.png)
+Join Us
+![image](https://user-images.githubusercontent.com/5288061/160018670-c29d72a1-2e1e-438e-a1db-930c01cec29f.png)
+
+   
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
