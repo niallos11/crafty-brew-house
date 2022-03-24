@@ -59,6 +59,7 @@ Features Left to Implement
 
 Testing
 
+![image](https://user-images.githubusercontent.com/5288061/160015788-510510fe-c082-456b-88c5-b3903e8fd0a8.png)
 
 
 Lighthouse 
@@ -102,6 +103,5 @@ Media
 The beer mug logo was taken from https://www.vector4free.com
 The main photo used on the home  page are from https://unsplash.com/
  
-![image](https://user-images.githubusercontent.com/5288061/160015708-1da5c7e7-0ef7-4e72-a441-83d2342cfc35.png)
 
 
