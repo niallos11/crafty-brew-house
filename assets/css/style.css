@@ -113,10 +113,10 @@ footer > a {
 
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
+
 }
 .join-us-form {
     color:#fff;
@@ -125,7 +125,6 @@ footer > a {
     display:block;
     margin:0 auto;
     padding:40px;
-    
 }
 .join-us-form h2 {
     color:#fafafa;
