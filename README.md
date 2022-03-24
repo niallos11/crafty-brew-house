@@ -1,50 +1,49 @@
-CraftyBrewHouse 
-# Code Institute - Project1
+#CraftyBrewHouse 
+Code Institute - Project1
 
 The CraftyBrewHouse is a meetup group from Homebrew enthusiasts throughout all of Ireland.
 The club is all about teaching and learning about craft beers & homebrewing.
 The idea is the social club offers a great way to meetup fellow Brewers to share ideas and taste some of the best craft beers available in Ireland.
 
 
-Features
+#Features
 
-Existing Features
+#Existing Features
 Code Institute - Project1 Navigation Bar
 Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beer and Join Up page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The look is intended to be clean and minimal. 
 
 ![image](https://user-images.githubusercontent.com/5288061/160012912-5b07e389-92ed-4459-b02f-3b9426843d78.png)
-
 
 The landing page image
    The landing includes a log of  of CraftyBrewHouse and a large image with freshly brewed craft beers from the club.
 
 ![image](https://user-images.githubusercontent.com/5288061/159925979-3c885eaa-8664-4d5c-ade8-2b3dadf7026c.png)
 
-What we are all About
+##What we are all About
 A brieft introduction to explain what the club is all about to intice users to want to join.
 
-Why Join
+##Why Join
 Reasons why to join the club, giving more details on the beinifits of being a member.
 
-What We Brew
+##What We Brew
 A brieft summary of some of the beer you can enjoy and brew by joining.
 
-Google Maps
+##Google Maps
 To give users an easy view of where the brewery is location.
 
-The Footer
+##The Footer
 Added Contact details in footer 
 
 The footer section includes links to the relevant social media sites for CraftyBrewHouse. 
 The links will open to a new tab to allow easy navigation for the user.
 
-Beer
+#Beer
 This sections show some more detailed infomation for the types of beers that CraftyBrewHouse brew.
 
 ![image](https://user-images.githubusercontent.com/5288061/160013377-c0b9add6-20ad-4105-aa7c-151938b64920.png)
 
 
-BEER TYPE:
+###BEER TYPE:
 NAME:
 Style:
 Colour:
