@@ -5,11 +5,11 @@ The CraftyBrewHouse is a meetup group from Homebrew enthusiasts throughout all o
 The club is all about teaching and learning about craft beers & homebrewing.
 The idea is the social club offers a great way to meetup fellow Brewers to share ideas and taste some of the best craft beers available in Ireland.
 
-
 #Features
 
 #Existing Features
-Code Institute - Project1 Navigation Bar
+
+Navigation Bar
 Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beer and Join Up page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The look is intended to be clean and minimal. 
 
 ![image](https://user-images.githubusercontent.com/5288061/160012912-5b07e389-92ed-4459-b02f-3b9426843d78.png)
