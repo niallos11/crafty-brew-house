@@ -5,6 +5,8 @@ The CraftyBrewHouse is a meetup group from Homebrew enthusiasts throughout all o
 The club is all about teaching and learning about craft beers & homebrewing.
 The idea is the social club offers a great way to meetup fellow Brewers to share ideas and taste some of the best craft beers available in Ireland.
 
+![image](https://user-images.githubusercontent.com/5288061/160019450-db4a430d-6e1f-4234-8d38-106bee1e911e.png)
+
 Features
 
 Existing Features
