@@ -124,7 +124,6 @@ footer > a {
     max-width: 500px;
     display:block;
     margin:0 auto;
-    left:38%;
     padding:40px;
     
 }
@@ -144,17 +143,22 @@ footer > a {
 .text-input:hover{
     border-color:#fce38a;
 }
-.join-button{
+.join-us-form{
     margin-top:20px;
     border-radius:2px;
     padding:15px 32px 15px 32px;
     text-align:center;
     font-size:100%;
-    background-color:#fce38a;
+    background-color:#364f6b;
     color:#fafafa;
     
 }
-.join-button:hover{
+.join-us-button {
+    font-size:200%;
+    border-radius:2px;
+    padding:15px 32px 15px 32px;
+}
+.join-us-button:hover{
     background-color:#fafafa;
     color:#f16c6b;
 }
