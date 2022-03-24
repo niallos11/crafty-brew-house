@@ -5,17 +5,14 @@ The CraftyBrewHouse is a meetup group from Homebrew enthusiasts throughout all o
 The club is all about teaching and learning about craft beers & homebrewing.
 The idea is the social club offers a great way to meetup fellow Brewers to share ideas and taste some of the best craft beers available in Ireland.
 
-View the live website on GitHub Pages
-Press CTRL + Click to open in new tab.
-https://niallos11.github.io/crafty-brew-house/
-
 
 Features
 
 Existing Features
 
 Navigation Bar
-Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beer and Join Up page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beer and Join Up page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The look is intended to be clean and minimal. 
+![image](https://user-images.githubusercontent.com/5288061/160012912-5b07e389-92ed-4459-b02f-3b9426843d78.png)
 
 
 The landing page image
@@ -61,13 +58,6 @@ Features Left to Implement
 Testing
 
 
-# Things to fix do; 
-- Google map iframes location.
-- Social Media icons.
-- font Awsome beer mug not working.
-- Add href Contact Us -> Jump to section on Main page.
-- Fix form on Mobile, need to allign more to left.
-- Fix Paragraph text on Mobile is too much to left.
 
 Lighthouse 
 - <frame> or <iframe> elements do not have a title
@@ -96,18 +86,19 @@ Credits
 
   
 Content
-
-Page layout was inspired by the LoveRunning & CoderCoffeeHouse Projects completed in the Code Institute course.
-  
-I looked at some irish craft beer websites to take inspiration from; 
+   
+Page was inspired by the LoveRunning & CoderCoffeeHouse Projects completed in the Code Institute course.
+I looked at some Irish craft beer websites to take inspiration from; 
 https://www.westernherd.com/
 https://treatycitybrewery.ie/
 https://www.kinnegarbrewing.ie/
+www.w3schools.com   
+
   
 
-  Media
+Media
 The beer mug logo was taken from https://www.vector4free.com
 The main photo used on the home  page are from https://unsplash.com/
  
 
-  
+
