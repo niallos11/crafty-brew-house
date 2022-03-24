@@ -34,7 +34,9 @@ Google Maps
 To give users an easy view of where the brewery is location.
 
 The Footer
-Added Contact details in footer 
+Added Contact details in footer as this meant a full page or anchor tag was not needed.
+![image](https://user-images.githubusercontent.com/5288061/160023222-cb0c296e-002d-4905-b00a-3503411b2274.png)
+
 
 The footer section includes links to the relevant social media sites for CraftyBrewHouse. 
 The links will open to a new tab to allow easy navigation for the user.
