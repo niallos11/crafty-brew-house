@@ -17,6 +17,7 @@ Lighthouse
 - Page lacks the HTML doctype, thus triggering quirks-modeDocument must contain a doctype
 - Serves images with low resolution
 - Web app manifest or service worker do not meet the installability requirements 1 reason
-
+- Resized Image
+  
 Validator 
 - You should add a type attribute with a value of text/css to the link element
