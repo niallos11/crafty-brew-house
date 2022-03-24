@@ -10,7 +10,7 @@ Features
 
 Existing Features
 
-Navigation Bar
+Navigation Bar /
 Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beer and Join Up page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The look is intended to be clean and minimal. 
 
 ![image](https://user-images.githubusercontent.com/5288061/160012912-5b07e389-92ed-4459-b02f-3b9426843d78.png)
