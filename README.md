@@ -62,11 +62,13 @@ Testing
 ![image](https://user-images.githubusercontent.com/5288061/160015788-510510fe-c082-456b-88c5-b3903e8fd0a8.png)
 
 Fixed errors
-1. Removed uneeded section on line 54.
+1. Removed un-needed section on line 54.
 2. Section lacks heading, changed section to div.
 3. tag is closed
 4. Added div close tag for line 28.
-5. ![image](https://user-images.githubusercontent.com/5288061/160016414-5fa68a88-2be2-4743-881e-c1dcbfa9afcd.png)
+5. 
+W3C HTML Validator
+![image](https://user-images.githubusercontent.com/5288061/160016414-5fa68a88-2be2-4743-881e-c1dcbfa9afcd.png)
 
 W3C CSS Validator (Jigsaw)
 ![image](https://user-images.githubusercontent.com/5288061/160022096-4bffb45f-651a-48a3-a6e1-633756b43122.png)
