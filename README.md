@@ -84,8 +84,8 @@ Lighthouse
 Mobile
 ![image](https://user-images.githubusercontent.com/5288061/160017165-9c15c431-c73f-423d-9b53-7128506b97ee.png)
 
-   Desktop
-![image](https://user-images.githubusercontent.com/5288061/160017472-cbb84cee-aa47-42ff-a16d-6b48cf7f623f.png)
+Desktop
+![image](https://user-images.githubusercontent.com/5288061/160023019-407dcfa0-a42d-4b94-a586-cc0e5c8d634a.png)
 
 Unfixed Bugs - 
 
