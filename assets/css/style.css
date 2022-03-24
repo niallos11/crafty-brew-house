@@ -8,6 +8,7 @@ body {
     font-family: Jost,sans-serif;
     font-weight: 400;
     color: #3a3a3a;
+    background-color:#fafafa
 }
 /* headings & logo */
 h1,h2,h3 {
@@ -24,6 +25,7 @@ h1,h2,h3 {
     display: flex;
     align-items: center;
     justify-content: center;
+    color:#364f6b;
 }
 #menu li {
     list-style-type: none;
@@ -51,7 +53,7 @@ h1,h2,h3 {
     height: 60%;
     width: 100%;
 }
-.hero-image {
+/*.hero-image {
     background: url('../images/jon-parry-C8eSYwQkwHw-unsplash.jpg') no-repeat center center;
     background-size: cover;
     height: 30%;
@@ -119,12 +121,12 @@ footer > a {
 
 }
 .join-us-form {
-    color:#fff;
+    color:rgb(216, 49, 49);
     background-color: #364f6b;
     max-width: 500px;
     display:block;
     margin:0 auto;
-    padding:40px;
+    padding:50px;
 }
 .join-us-form h2 {
     color:#fafafa;
@@ -142,7 +144,7 @@ footer > a {
 .text-input:hover{
     border-color:#fce38a;
 }
-.join-us-form{
+.join-us-form {
     margin-top:20px;
     border-radius:2px;
     padding:15px 32px 15px 32px;
@@ -153,7 +155,7 @@ footer > a {
     
 }
 .join-us-button {
-    font-size:200%;
+    font-size:100%;
     border-radius:2px;
     padding:15px 32px 15px 32px;
 }
