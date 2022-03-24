@@ -5,9 +5,9 @@ The CraftyBrewHouse is a meetup group from Homebrew enthusiasts throughout all o
 The club is all about teaching and learning about craft beers & homebrewing.
 The idea is the social club offers a great way to meetup fellow Brewers to share ideas and taste some of the best craft beers available in Ireland.
 
-#Features
+Features
 
-#Existing Features
+Existing Features
 
 Navigation Bar
 Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beer and Join Up page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The look is intended to be clean and minimal. 
@@ -19,25 +19,25 @@ The landing page image
 
 ![image](https://user-images.githubusercontent.com/5288061/159925979-3c885eaa-8664-4d5c-ade8-2b3dadf7026c.png)
 
-##What we are all About
+What we are all About
 A brieft introduction to explain what the club is all about to intice users to want to join.
 
-##Why Join
+Why Join
 Reasons why to join the club, giving more details on the beinifits of being a member.
 
-##What We Brew
+What We Brew
 A brieft summary of some of the beer you can enjoy and brew by joining.
 
-##Google Maps
+Google Maps
 To give users an easy view of where the brewery is location.
 
-##The Footer
+The Footer
 Added Contact details in footer 
 
 The footer section includes links to the relevant social media sites for CraftyBrewHouse. 
 The links will open to a new tab to allow easy navigation for the user.
 
-#Beer
+Beer
 This sections show some more detailed infomation for the types of beers that CraftyBrewHouse brew.
 
 ![image](https://user-images.githubusercontent.com/5288061/160013377-c0b9add6-20ad-4105-aa7c-151938b64920.png)
@@ -50,12 +50,10 @@ Colour:
 HOPs
 TASTE:
 
-
 Features Left to Implement
 
 - Would like to add more info on the brewing process.
 - Some details on Brewing equipment
-
 
 Testing
 
@@ -66,8 +64,7 @@ Fixed errors
 2. Section lacks heading, changed section to div.
 3. tag is closed
 4. Added div close tag for line 28.
-![image](https://user-images.githubusercontent.com/5288061/160016414-5fa68a88-2be2-4743-881e-c1dcbfa9afcd.png)
-
+5. ![image](https://user-images.githubusercontent.com/5288061/160016414-5fa68a88-2be2-4743-881e-c1dcbfa9afcd.png)
 
 
 Lighthouse 
@@ -83,10 +80,7 @@ Mobile
    Desktop
 ![image](https://user-images.githubusercontent.com/5288061/160017472-cbb84cee-aa47-42ff-a16d-6b48cf7f623f.png)
 
-  
-
- Unfixed Bugs - none found since last testing.
-
+Unfixed Bugs - 
 
 Deployment
    
