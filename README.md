@@ -9,8 +9,6 @@ The idea is the social club offers a great way to meetup fellow Brewers to share
 
 Features
 
-Existing Features
-
 Navigation Bar
 Featured on all three pages, the full responsive navigation bar includes links to the Home page, Beer and Join Up page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The look is intended to be clean and minimal. 
 
