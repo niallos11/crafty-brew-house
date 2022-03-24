@@ -68,6 +68,8 @@ Fixed errors
 4. Added div close tag for line 28.
 5. ![image](https://user-images.githubusercontent.com/5288061/160016414-5fa68a88-2be2-4743-881e-c1dcbfa9afcd.png)
 
+W3C CSS Validator (Jigsaw)
+![image](https://user-images.githubusercontent.com/5288061/160022096-4bffb45f-651a-48a3-a6e1-633756b43122.png)
 
 Lighthouse 
 - <frame> or <iframe> elements do not have a title - added title.
