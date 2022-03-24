@@ -79,14 +79,12 @@ Lighthouse
 
 Mobile
 ![image](https://user-images.githubusercontent.com/5288061/160017165-9c15c431-c73f-423d-9b53-7128506b97ee.png)
-Desktop
+
+   Desktop
 ![image](https://user-images.githubusercontent.com/5288061/160017472-cbb84cee-aa47-42ff-a16d-6b48cf7f623f.png)
 
   
-Validator 
-- You should add a type attribute with a value of text/css to the link element
 
-  
  Unfixed Bugs - none found since last testing.
 
 
@@ -100,10 +98,11 @@ The live link can be found here - https://niallos11.github.io/crafty-brew-house/
   
 
 Credits
+Code Institute 
+
 
   
 Content
-   
 Page was inspired by the LoveRunning & CoderCoffeeHouse Projects completed in the Code Institute course.
 I looked at some Irish craft beer websites to take inspiration from; 
 https://www.westernherd.com/
@@ -111,11 +110,12 @@ https://treatycitybrewery.ie/
 https://www.kinnegarbrewing.ie/
 www.w3schools.com   
 
-  
-
+ 
 Media
 The beer mug logo was taken from https://www.vector4free.com
 The main photo used on the home  page are from https://unsplash.com/
- 
-
-
+   
+   
+   
+   
+  
