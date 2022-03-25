@@ -40,7 +40,7 @@ Reasons why to join the club, giving more details on the beinifits of being a me
 A brieft summary of some of the beer you can enjoy and brew by joining.
 
 ### Google Maps
-To give users an easy view of where the brewery is location.
+To give users an easy view of where the brewing meeting group is located.
 
 - __The Footer__ 
 
