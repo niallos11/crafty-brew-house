@@ -19,8 +19,9 @@ h1,h2,h3 {
     text-align: center;
 }
 #menu {
+    font-family:Oswald,sans-serif;
     font-size: 140%;
-    font-weight: bold;
+    font-weight: bolder;
     letter-spacing: 4px; 
     display: flex;
     align-items: center;
@@ -59,6 +60,13 @@ h1,h2,h3 {
     justify-content: center;
     font-weight:bold;
     font-size: larger;
+}
+.div p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight:bolder;
+    font-size: x-large;
 }
 .main ul {
     justify-content: center;
