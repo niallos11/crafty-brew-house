@@ -17,7 +17,6 @@ The navigation is clean and makes it easy for a user to go to different sections
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __The landing page image__
 
@@ -50,8 +49,7 @@ The footer feature contact infomation so not to take up a full page.
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
+![image](https://user-images.githubusercontent.com/5288061/160116067-3461df84-689c-409b-8bc4-1ddfe9d630be.png)
 
 - __The Join Us Form__
 
