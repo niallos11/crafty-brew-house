@@ -121,8 +121,7 @@ There were some minor tweaks from this original design.
 ### BEER
 ![image](https://user-images.githubusercontent.com/5288061/160214426-b155e695-1168-4371-bc87-333defcf89eb.png)
 
- ### 
-  JOIN
+### JOIN
 ![image](https://user-images.githubusercontent.com/5288061/160214400-7e2bfa48-3fc0-4413-8de7-79396b612896.png)
 
   
