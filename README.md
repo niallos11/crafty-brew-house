@@ -17,15 +17,13 @@ The navigation is clean and makes it easy for a user to go to different sections
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-
 - __The landing page image__
 
 The landing page features a large image with freshly brewed craft beers from the club. 
 This is to show the range of craft beers you can learn to brew by joining the club.
 
 ![image](https://user-images.githubusercontent.com/5288061/159925979-3c885eaa-8664-4d5c-ade8-2b3dadf7026c.png)
-   
-   
+     
 - __Home section__
 
 The home page feature infomation about the club,Why Join,What we brew and also a google maps.
@@ -62,8 +60,8 @@ Once the user submits the form the will recieve thank you message and notificaio
 
 ### Features Left to Implement
 
-- Add brewing process section
-- Infomation / introduction of the Master brewers & tours available.
+- Add brewing guide section.
+- Infomation of the Master brewers & tours available.
 
 ## Testing 
 
@@ -119,7 +117,6 @@ This section should describe the process you went through to deploy the project 
 
 The live link can be found here - https://niallos11.github.io/crafty-brew-house/
 
-
 ## Credits 
 - Code Institute 
 - My Mentor Caleb Mbakwe for help and advise.
@@ -134,8 +131,8 @@ I looked at some Irish craft beer websites to take inspiration from;
 ### Coding tips 
 - www.w3schools.com   
 
- 
 Media
 The beer mug logo was taken from https://www.vector4free.com
 The main photo used on the home  page are from https://unsplash.com
+Used font Awsome & Google fonts.
    
