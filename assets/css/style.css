@@ -8,7 +8,6 @@ body {
     font-family: Jost,sans-serif;
     font-weight: 400;
     color: #3a3a3a;
-    background-color:#fafafa
 }
 /* headings & logo */
 h1,h2,h3 {
@@ -18,6 +17,7 @@ h1,h2,h3 {
     color:rgb(128, 77, 0);
     text-align: center;
 }
+/*  menu section */
 #menu {
     font-family:Oswald,sans-serif;
     font-size: 140%;
@@ -39,6 +39,7 @@ h1,h2,h3 {
 #menu a:hover {
     border-bottom: 2px solid #3a3a3a;
 }
+/*  logo in header */
 #logo {  
     display: block;
     margin-left: auto;
@@ -46,6 +47,7 @@ h1,h2,h3 {
     height: auto;
     width: auto;
 }
+/*  main large image */
 #img {
     display: block;
     background-size: cover;
@@ -54,6 +56,7 @@ h1,h2,h3 {
     height: 60%;
     width: 100%;
 }
+/*  paragraph styling throughout webpage */
 .main p {
     display: flex;
     align-items: center;
@@ -61,6 +64,7 @@ h1,h2,h3 {
     font-weight:bold;
     font-size: larger;
 }
+/*  used only in beer page */
 .div p {
     display: flex;
     align-items: center;
@@ -68,7 +72,16 @@ h1,h2,h3 {
     font-weight:bolder;
     font-size: x-large;
 }
+.main p {
+    list-style-type: none;
+    justify-content: center;
+    flex-direction: column;
+    text-align:center;
+    font-weight:bold;
+    font-size: large;
+}
 .main ul {
+    list-style-type: none;
     justify-content: center;
     flex-direction: column;
     text-align:center;
@@ -85,6 +98,7 @@ h1,h2,h3 {
     width: 100%;
     border: none;
 }
+/* footer section */
 footer {
 	background-color: #364f6b;
 	padding: 1em;
@@ -100,6 +114,7 @@ footer > a {
 	padding: 0 15px;
 	font-size: 0.8rem;
 }
+/*  social meadia links in footer*/
 .social-networks {
     text-align: center;
 }
@@ -155,6 +170,7 @@ footer > a {
     background-color:#fafafa;
     color:#f16c6b;
 }
+/*  footer section */
 footer > h2 {
 	color: silver;
 }
@@ -164,14 +180,20 @@ footer > a {
 footer > p {
 	color: #fce38a;
 }
+
+/* Media queries */
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+}
 /* For small screen sizes 800px and down */
 @media screen and (max-width: 800px) {
-    #photos {
+    #img {
         column-count: 3;
     }
 }
 @media screen and (max-width: 800px) {
-    #photos {
+    #img {
         column-count: 2;
         }
 }
