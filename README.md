@@ -114,11 +114,15 @@ There were some minor tweaks from this original design.
   - Contact page moved to footer.
   - Added testimonial to join us page.
   
-  - HOME
+### HOME 
+  
 ![image](https://user-images.githubusercontent.com/5288061/160214321-d83475e8-6ffe-4742-8c3a-e17ea1662b76.png)
-  - BEER
+
+### BEER
 ![image](https://user-images.githubusercontent.com/5288061/160214426-b155e695-1168-4371-bc87-333defcf89eb.png)
-  - JOIN
+
+ ### 
+  JOIN
 ![image](https://user-images.githubusercontent.com/5288061/160214400-7e2bfa48-3fc0-4413-8de7-79396b612896.png)
 
   
