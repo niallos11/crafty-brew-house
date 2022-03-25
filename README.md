@@ -66,6 +66,11 @@ Once the user submits the form the will recieve thank you message and notificaio
 
 ## Testing 
 
+- I have tested page on Chrome,Firefox & Safari.
+- I have tested page with Google lighthouse
+- I have tested with  W3C HTML Validator
+- I have tested with W3C CSS Validator
+
 ![image](https://user-images.githubusercontent.com/5288061/160015788-510510fe-c082-456b-88c5-b3903e8fd0a8.png)
 
 ## Bugs
