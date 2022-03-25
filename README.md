@@ -49,7 +49,8 @@ The footer feature contact infomation so not to take up a full page.
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![image](https://user-images.githubusercontent.com/5288061/160116067-3461df84-689c-409b-8bc4-1ddfe9d630be.png)
+![image](https://user-images.githubusercontent.com/5288061/160213774-c5c607bc-b55b-4a08-a867-d825867b72d7.png)
+
 
 - __The Join Us Form__
 
