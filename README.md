@@ -71,9 +71,9 @@ Once the user submits the form the will recieve thank you message and notificaio
 - I have tested with  W3C HTML Validator
 - I have tested with W3C CSS Validator
 
-![image](https://user-images.githubusercontent.com/5288061/160015788-510510fe-c082-456b-88c5-b3903e8fd0a8.png)
-
 ## Bugs
+
+![image](https://user-images.githubusercontent.com/5288061/160015788-510510fe-c082-456b-88c5-b3903e8fd0a8.png)
 
 ### Fixed errors
 
