@@ -110,18 +110,18 @@ There are no known Unfixed Bugs.
   
 This site was designed and planned out with wireframes before deployment.
 There were some minor tweaks from this original design.
-- About page changed to beer.
--Contact page moved to footer.
-- Added testimonial to join us page.
+  - About page changed to beer.
+  - Contact page moved to footer.
+  - Added testimonial to join us page.
   
-HOME
+  - HOME
 ![image](https://user-images.githubusercontent.com/5288061/160214321-d83475e8-6ffe-4742-8c3a-e17ea1662b76.png)
-BEER
+  - BEER
 ![image](https://user-images.githubusercontent.com/5288061/160214426-b155e695-1168-4371-bc87-333defcf89eb.png)
-JOIN
+  - JOIN
 ![image](https://user-images.githubusercontent.com/5288061/160214400-7e2bfa48-3fc0-4413-8de7-79396b612896.png)
 
-
+  
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
   - The site was deployed to GitHub pages. The steps to deploy are as follows: 
